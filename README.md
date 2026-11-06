@@ -16,7 +16,7 @@ I build fast, scalable web applications end to end — from pixel-perfect interf
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer at **Technyx Systems** in Karachi, Pakistan, with **3+ years of experience** building responsive, high-performance web applications for enterprise and government clients in the UAE.
+I'm a Software Engineer at **Technyx Systems** in Karachi, Pakistan, with **3+ years of experience** building responsive, high-performance, production-grade web applications.
 
 I work mainly with React and Next.js on the front end, and I'm growing my full-stack skills with Node.js, Express, and SQL/NoSQL databases.
 
@@ -98,25 +98,29 @@ My personal site showcasing projects, skills and experience.
 
 🔗 [osamakhan.online](https://www.osamakhan.online)
 
----
+### 🎓 Dubai Learning Hub
 
-## 🏢 Client Work at Technyx Systems
-
-### 🎓 Dubai Department of Economy and Tourism — Learning Hub
-
-[dubailearnsme.ae](https://dubailearnsme.ae)
+A learning platform with dynamic course content and a CMS-driven experience.
 
 - Architected Redux-based API integrations for reliable, optimized data flow across the platform.
 - Built custom logic for Course Detail pages to handle dynamic content, complex data and varied learning formats.
 - Implemented Google Tag Manager for analytics, learner tracking and performance insights.
 - Integrated dynamic CMS content site-wide with custom rendering logic.
 
+**Tech Stack:** Next.js, React, Redux, RTK Query, CMS, Google Tag Manager
+
+🔗 [dubailearnsme.ae](https://dubailearnsme.ae)
+
 ### 🏛️ Zayed National Museum
 
-[zayednationalmuseum.ae](https://zayednationalmuseum.ae)
+A culturally significant museum website with dynamic forms and API integrations.
 
-- Contributed to UI development and API integrations for the museum website.
+- Contributed to UI development and API integrations.
 - Built multiple dynamic forms — Donation, Volunteer and Partnership — with full frontend logic and backend API connectivity.
+
+**Tech Stack:** Next.js, React, REST APIs
+
+🔗 [zayednationalmuseum.ae](https://zayednationalmuseum.ae)
 
 ---
 
