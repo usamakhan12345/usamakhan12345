@@ -98,29 +98,29 @@ My personal site showcasing projects, skills and experience.
 
 🔗 [osamakhan.online](https://www.osamakhan.online)
 
-### 🎓 Dubai Learning Hub
+### 🔒 Client Work · Under NDA
 
-A learning platform with dynamic course content and a CMS-driven experience.
+The projects below were delivered for clients and are confidential, so names and links are not shared. Details are available on request.
+
+#### 🎓 Government Learning Platform
+
+A government learning platform with dynamic course content and a CMS-driven experience.
 
 - Architected Redux-based API integrations for reliable, optimized data flow across the platform.
 - Built custom logic for Course Detail pages to handle dynamic content, complex data and varied learning formats.
 - Implemented Google Tag Manager for analytics, learner tracking and performance insights.
 - Integrated dynamic CMS content site-wide with custom rendering logic.
 
-**Tech Stack:** Next.js, React, Redux, RTK Query, CMS, Google Tag Manager
+**Tech Stack:** React, Next.js, Redux, RTK Query, CMS, Google Tag Manager
 
-🔗 [dubailearnsme.ae](https://dubailearnsme.ae)
+#### 🏛️ National Cultural Website
 
-### 🏛️ Zayed National Museum
+A high-traffic public website for a cultural institution.
 
-A culturally significant museum website with dynamic forms and API integrations.
+- Delivered UI development and API integrations.
+- Built several dynamic forms with complete front-end logic and backend API connectivity.
 
-- Contributed to UI development and API integrations.
-- Built multiple dynamic forms — Donation, Volunteer and Partnership — with full frontend logic and backend API connectivity.
-
-**Tech Stack:** Next.js, React, REST APIs
-
-🔗 [zayednationalmuseum.ae](https://zayednationalmuseum.ae)
+**Tech Stack:** React, Next.js, SCSS, REST APIs, Node.js, Express.js
 
 ---
 
